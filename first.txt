@@ -2,4 +2,5 @@ First
 first text edited
 phone added
 tablet added
+soap added
 towel added
