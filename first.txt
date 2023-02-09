@@ -6,3 +6,5 @@ soap added
 towel added
 water
 chips
+
+ticket 1.1 done
