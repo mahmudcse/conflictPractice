@@ -8,3 +8,4 @@ water
 chips
 
 ticket 1.1 done
+ticket is done on 3rd day
