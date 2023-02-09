@@ -4,3 +4,4 @@ chicken
 
 
 ticket 1.1 done here as well
+tcket 1.2 done in day 2
