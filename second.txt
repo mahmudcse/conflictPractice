@@ -1,3 +1,8 @@
 second
 fan
 chicken
+
+
+ticket 1.1 done here as well
+tcket 1.2 done in day 2
+ticket is done on 3rd day
